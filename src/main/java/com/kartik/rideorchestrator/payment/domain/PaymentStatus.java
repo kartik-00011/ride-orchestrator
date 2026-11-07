@@ -1,4 +1,4 @@
-package com.kartik.rideorchestrator.payment;
+package com.kartik.rideorchestrator.payment.domain;
 
 public enum PaymentStatus {
     PENDING,

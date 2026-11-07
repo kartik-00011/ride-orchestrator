@@ -1,4 +1,4 @@
-package com.kartik.rideorchestrator.vehicle;
+package com.kartik.rideorchestrator.vehicle.domain;
 
 import java.util.UUID;
 

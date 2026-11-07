@@ -1,11 +1,10 @@
-package com.kartik.rideorchestrator.driver;
+package com.kartik.rideorchestrator.driver.domain;
 
 import com.kartik.rideorchestrator.common.*;
-import com.kartik.rideorchestrator.vehicle.Vehicle;
+import com.kartik.rideorchestrator.vehicle.domain.Vehicle;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.UUID;
 
 public class Driver {
 //    private final UUID id;

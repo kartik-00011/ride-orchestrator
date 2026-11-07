@@ -1,4 +1,4 @@
-package com.kartik.rideorchestrator.ride;
+package com.kartik.rideorchestrator.ride.domain;
 
 import com.kartik.rideorchestrator.common.Location;
 

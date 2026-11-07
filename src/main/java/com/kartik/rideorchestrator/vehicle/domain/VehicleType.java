@@ -1,4 +1,4 @@
-package com.kartik.rideorchestrator.vehicle;
+package com.kartik.rideorchestrator.vehicle.domain;
 
 public enum VehicleType {
     BIKE,

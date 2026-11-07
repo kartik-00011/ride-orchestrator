@@ -36,3 +36,18 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+
+### Local configuration and secrets ###
+.env
+.env.*
+!.env.example
+
+application-local.properties
+application-dev.properties
+
+### IntelliJ ###
+.idea/
+
+### Build output ###
+out/

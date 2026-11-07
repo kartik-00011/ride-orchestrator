@@ -1,4 +1,4 @@
-package com.kartik.rideorchestrator.rider;
+package com.kartik.rideorchestrator.rider.domain;
 
 import com.kartik.rideorchestrator.common.UserProfile;
 

@@ -1,4 +1,4 @@
-package com.kartik.rideorchestrator.driver;
+package com.kartik.rideorchestrator.driver.domain;
 
 public enum DriverStatus {
     OFFLINE,
